@@ -1,0 +1,11 @@
+.bird {
+  display: inline-block;
+  box-sizing: border-box;
+  width:720px;
+  height: 400px;
+  margin: 1px;
+  border: 5px;
+  padding: 1px;
+  object-position: 30%;
+  object-fit: cover;
+}
